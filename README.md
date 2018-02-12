@@ -38,7 +38,8 @@ iPod touch, iPad)で再生できるm4aに変換するツールです
 ダウンロード
 ------------
 
-<http://lutea.gageas.com/files/mora2ios.zip>
+[Releaseページ](https://github.com/gageas/MoraPostprocessor/releases)
+
 
 エラー(NG)が出る場合
 --------------------
